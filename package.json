@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shopjamjewels-star/JAM-Jewels/issues"
   },
-  "homepage": "https://github.com/shopjamjewels-star/JAM-Jewels#readme"
+  "homepage": "https://github.com/shopjamjewels-star/JAM-Jewels#readme",
+  "dependencies": {
+    "@builder.io/react": "^8.2.7"
+  }
 }
